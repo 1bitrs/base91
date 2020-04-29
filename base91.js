@@ -1,7 +1,7 @@
 /**
  * Base91 encode and decode
  * Modified from Joachim Henke's php code, see at http://base91.sourceforge.net/
- * Author: masazumi-github
+ * Author: toor
  */
 
 function base91Encode(d) {
