@@ -7,6 +7,6 @@
 base91Encode("abcdefgHIJKLMN0123456789!@$%^&*()-=<>?:{}");
 // return "#G(Ic,5p(5qOdwQb?texAkZdx2G?*NyWqOa16dvz{0&_t[rU`]D"
 
-base91decode("#G(Ic,5p(5qOdwQb?texAkZdx2G?*NyWqOa16dvz{0&_t[rU`]D")
+base91Decode("#G(Ic,5p(5qOdwQb?texAkZdx2G?*NyWqOa16dvz{0&_t[rU`]D")
 // return "abcdefgHIJKLMN0123456789!@$%^&*()-=<>?:{}"
 ```
